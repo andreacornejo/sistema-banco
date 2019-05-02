@@ -1,0 +1,30 @@
+{
+    "_id" : ObjectId("5cc664269258691e999a8c0d"),
+    "data" : [ 
+        {
+            "idcliente" : 2,
+            "idfactura" : 1354,
+            "monto" : 25
+        }, 
+        {
+            "idcliente" : 1,
+            "idfactura" : 2256,
+            "monto" : 36
+        }, 
+        {
+            "idcliente" : 2,
+            "idfactura" : 3252,
+            "monto" : 17
+        }, 
+        {
+            "idcliente" : 1,
+            "idfactura" : 3216,
+            "monto" : 26
+        }, 
+        {
+            "idcliente" : 1,
+            "idfactura" : 4547,
+            "monto" : 44
+        }
+    ]
+}
